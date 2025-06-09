@@ -107,3 +107,17 @@ footer {
   color: #666;
   font-size: 13px;
 }
+body {
+  background-color: #f8f9fa;
+}
+.profile-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 5px solid white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.quote {
+  font-style: italic;
+  color: #6c757d;
+}
